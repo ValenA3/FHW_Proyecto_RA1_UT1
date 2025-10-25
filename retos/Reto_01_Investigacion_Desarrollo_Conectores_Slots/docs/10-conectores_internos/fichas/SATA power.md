@@ -22,4 +22,4 @@ El cable de datos SATA tiene 7 pines y permite la conexión de una sola unidad.
 ![SATA POWER](../../../assets/img/10-conectores_internos/SATA.jpg "SATA POWER")
 ## Fuentes
 https://www.ordenatech.es/conector-sata-caracteristicas-y-ventajas/
-pc-workstation/guia-para-principiantes-sobre-cables-sata-todo-lo-que-necesitas-saber/
+https://ibericavip.com/blog/pc-workstation/guia-para-principiantes-sobre-cables-sata-todo-lo-que-necesitas-saber/
