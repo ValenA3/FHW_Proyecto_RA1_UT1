@@ -1,17 +1,18 @@
-# <Tipo y nombre>
+# Conector EPS de 8 pines (4+4)
 
-**Descripción breve:** <2–3 líneas>
-**Pines/Carriles/Voltajes/Velocidad:** <datos clave>
-**Uso principal:** <texto>
-**Compatibilidad actual:** Alta | Media | Baja
+**Descripción breve:** Cable de alimentación para la CPU. Compuesto por dos conectores de 4 pines que se pueden unir para formar uno de 8.
+**Pines/Carriles/Voltajes/Velocidad:** 8 pines, 12V, 336W, no tiene velocidad (no trasmite datos)
+**Uso principal:** Alimentación de la CPU.
+**Compatibilidad actual:** Alta
 
 ## Identificación física
 
-- <forma/llaves(muescas o ranuras)/colores/símbolos/ubicación>
+- Situdo en la fuente de alimentación y se conecta directamente a un puerto de 8 pines en la placa base cerca del CPU.
 
 ## Notas técnicas
 
-- <versiones, limitaciones, requisitos de cable, PD/Hz/GT/s…>
+- El EPS 8 pines entrega corriente continua (DC) de 12 V a la CPU, proviene de los estándares ATX/EPS12V,
+tiene una corriente maxima de 28 A aprox. y tiene un requisito de cable de 16-18 AWG cobre. 
 
 ## Fotos
 
