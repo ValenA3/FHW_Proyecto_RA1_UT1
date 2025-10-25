@@ -3,9 +3,9 @@
 **Descripción breve:** es una interfaz de transferencia de datos
 en serie entre la placa base y algunos dispositivos de almacenamiento. <br>
 **Pines/Carriles/Voltajes/Velocidad:** 15 pines, No utiliza carriles (transmisión serial), 
-+12V, +5V, +3.3V, 
-Velocidad: SATA 1.0: 1.5 Gbps / SATA 2.0: 3 Gbps / SATA 3.0: 6 Gbps / SATA 3.2 (o posterior): Hasta 12 Gbps 
-**Uso principal:** Suministra energía directamente desde la fuente de alimentación al disco duro o unidad óptica. 
++12V, +5V, +3.3V <br>
+Velocidad: SATA 1.0: 1.5 Gbps / SATA 2.0: 3 Gbps / SATA 3.0: 6 Gbps / SATA 3.2 (o posterior): Hasta 12 Gbps <br>
+**Uso principal:** Suministra energía directamente desde la fuente de alimentación al disco duro o unidad óptica. <br>
 **Compatibilidad actual:** Alta
 
 ## Identificación física
