@@ -16,4 +16,5 @@
 ![ATX](../../../assets/img/10-conectores_internos/ATX.jpg "ATX 24p")
 
 ## Fuentes
-- https://www.formfactors.org/
+- https://www.profesionalreview.com/2018/11/10/alimentacion-atx-24-pines-eps/
+https://hardzone.es/tutoriales/componentes/conectores-fuente-atx-eps-placa-base/
