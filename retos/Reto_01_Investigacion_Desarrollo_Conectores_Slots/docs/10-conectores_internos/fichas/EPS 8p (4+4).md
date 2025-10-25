@@ -17,3 +17,5 @@ tiene una corriente maxima de 28 A aprox. y tiene un requisito de cable de 16-18
 ## Fotos
 ![EPS 8p (4+4)](../../../assets/img/10-conectores_internos/EPS.jpg "EPS 8p (4+4)")
 ## Fuentes
+https://www.moddiy.com/pages/Power-Supply-Connectors-and-Pinouts.html
+https://hardzone.es/tutoriales/componentes/conectores-fuente-atx-eps-placa-base/
