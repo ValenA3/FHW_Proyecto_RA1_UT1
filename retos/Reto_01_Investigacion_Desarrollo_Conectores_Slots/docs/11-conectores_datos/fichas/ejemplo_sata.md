@@ -16,4 +16,5 @@
 ![Cable SATA](../../../assets/img/11-conectores_datos/sataC.jpg "Cable SATA")
 
 ## Fuentes
-- 
+- https://www.pccomponentes.com/que-son-y-para-que-se-usan-los-cables-serial-ata-o-sata
+https://ibericavip.com/blog/pc-workstation/guia-para-principiantes-sobre-cables-sata-todo-lo-que-necesitas-saber/
