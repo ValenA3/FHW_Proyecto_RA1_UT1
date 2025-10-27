@@ -14,7 +14,7 @@ Cable PCIe 6/8p <br>
 - No tienen versiones ya que solo entregan corriente, limitaciones de 75 W (6 pines), 150 W (8 pines), requisitos de 12 V, cable AWG16–18 , compatibilidad muy alta con GPUs PCIe desde hace 20 años
 
 ## Fotos
-![IPCe](../../../assets/img/10-conectores_internos/IPCe.jpg "IPCe")
+![PCIe](../../../assets/img/10-conectores_internos/PCIe.jpg "PCIe")
 ## Fuentes
 https://hardzone.es/tutoriales/componentes/conectores-fuente-alimentacion/
 https://www.corsair.com/es/es/explorer/diy-builder/power-supply-units/individual-8-pin-vs-pigtail-connectors-for-gpus/
