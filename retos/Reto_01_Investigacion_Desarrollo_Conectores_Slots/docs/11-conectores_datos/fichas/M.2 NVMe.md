@@ -20,7 +20,7 @@ M.2 NVMe no usa cables externos: se conecta directamente a la ranura M.2 de la p
 GT/s pero en el bus PCIe.
 
 ## Fotos
-![M.2 NVMe](../../../assets/img/11-conectores_datos/<tu-imagen>m2.jpg "M.2 NVMe")
+![M.2 NVMe](../../../assets/img/11-conectores_datos/m2.jpg "M.2 NVMe")
 
 ## Fuentes
 https://www.ibm.com/es-es/think/topics/nvme-vs-m2
