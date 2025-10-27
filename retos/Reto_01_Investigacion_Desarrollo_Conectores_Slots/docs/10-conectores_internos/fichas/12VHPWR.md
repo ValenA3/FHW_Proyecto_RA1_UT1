@@ -7,9 +7,9 @@ Cable 12VHPWR
 
 ## Identificación física
 
-- 16pines(12 de potencia, 4 de señal), pines de potencia organizados en dos filas paralelas (6 + 6) y detras los pines de señal.
-Algunos pines tienen bordes cortados o esquinas biseladas para que no puedan insertarse al revés o mal orientados.
-Pueden ser negros o blancos. Pueden venir con texto “PCIe 5.0” o “12VHPWR” impreso o grabado, para identificar que es para GPU / potencia alta.
+- 16pines(12 de potencia, 4 de señal), pines de potencia organizados en dos filas paralelas (6 + 6) y detras los pines de señal.<br>
+Algunos pines tienen bordes cortados o esquinas biseladas para que no puedan insertarse al revés o mal orientados.<br>
+Pueden ser negros o blancos. Pueden venir con texto “PCIe 5.0” o “12VHPWR” impreso o grabado, para identificar que es para GPU / potencia alta.<br>
 Se encuentra en el lado superior o lateral, cerca de las salidas de energía de la tarjeta.
 ## Notas técnicas
 
