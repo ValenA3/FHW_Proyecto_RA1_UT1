@@ -1,8 +1,8 @@
 # <Tipo y nombre>
-Cable 12VHPWR
-**Descripción breve:** Conector de alimentación de 16 pines para tarjetas gráficas de alta potencia
-**Pines/Carriles/Voltajes/Velocidad:** 16pines(12 de potencia, 4 de deteccion)
-**Uso principal:** Suministrar potencia a las tarjetas gráficas de gama alta más modernas.
+Cable 12VHPWR<br>
+**Descripción breve:** Conector de alimentación de 16 pines para tarjetas gráficas de alta potencia<br>
+**Pines/Carriles/Voltajes/Velocidad:** 16pines(12 de potencia, 4 de deteccion), hasta 600 W, no velocidad <br>
+**Uso principal:** Suministrar potencia a las tarjetas gráficas de gama alta más modernas.<br>
 **Compatibilidad actual:** Alta con GPUs modernas
 
 ## Identificación física
