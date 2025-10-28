@@ -13,7 +13,9 @@
 - Requisitos de cable para 40 Gbps/240 W; DP Alt Mode para vídeo si no es TB.
 
 ## Fotos
-![USB-C](../../../assets/img/20-conectores_externos/usb_c.jpg "USB-C")
+![USB-C](../../../assets/img/20-conectores_externos/usbc.jpg "USB-C")
 
 ## Fuentes
 - https://usb.org/
+https://www.lenovo.com/es/es/glossary/what-is-usb-c/#:~:text=%C2%BFQu%C3%A9%20es%20el%20bus%20serie,opci%C3%B3n%20conveniente%20para%20muchos%20usuarios.
+https://www.att.com/es-us/wireless/what-is-usb-c-charger/
