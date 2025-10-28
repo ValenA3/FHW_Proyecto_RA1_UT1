@@ -1,4 +1,4 @@
-# PCIe Gen4
+# Slot: PCIe Gen4
 
 **Descripción breve:** es la cuarta generación de la interfaz Peripheral Component Interconnect Express,
 que duplica la velocidad de datos de su predecesor, PCIe 3.0. <br>
