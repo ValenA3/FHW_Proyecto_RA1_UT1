@@ -17,3 +17,5 @@
 
 ## Fuentes
 - https://pcisig.com/
+https://www.profesionalreview.com/2021/10/03/tarjeta-grafica-pci-express-x16/
+https://ibericavip.com/blog/pc-workstation/todos-los-tipos-de-ranuras-pcie-explicados-y-comparados/?srsltid=AfmBOoqRkbSaZIMGpDn7TWnUmfyt90E21OopStVPLrw-J9sOh4tOlw4B
