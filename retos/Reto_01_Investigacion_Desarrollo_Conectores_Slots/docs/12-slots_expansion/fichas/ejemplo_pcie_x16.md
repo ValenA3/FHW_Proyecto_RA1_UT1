@@ -13,7 +13,7 @@
 - Ancho de banda efectivo depende de generación y carriles disponibles (CPU/Chipset).
 
 ## Fotos
-![PCIe x16](../../../assets/img/12-slots_expansion/pcie_x16.jpg "PCIe x16")
+![PCIe x16](../../../assets/img/12-slots_expansion/pciex.png "PCIe x16")
 
 ## Fuentes
 - https://pcisig.com/
