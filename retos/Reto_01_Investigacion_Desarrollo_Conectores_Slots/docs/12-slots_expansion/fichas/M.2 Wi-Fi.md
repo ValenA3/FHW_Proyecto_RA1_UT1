@@ -1,11 +1,11 @@
 # Slot: M.2 Wi-Fi
 
 **Descripción breve:** ranura de expansión compacta (Next Generation Form Factor o NGFF) que se encuentra en
-ordenadores modernos yque permite conectar una tarjeta de módulo para redes inalámbricas, como la conexión Wi-Fi y Bluetooth.
+ordenadores modernos yque permite conectar una tarjeta de módulo para redes inalámbricas, como la conexión Wi-Fi y Bluetooth.<br>
 **Pines/Carriles/Voltajes/Velocidad:** 
 - Pines y carriles: Utiliza la interfaz PCIe, no SATA, ya que ofrece mayor velocidad.
 - Voltaje: 3.3V
-- Velocidad: Wi-Fi 5 (1.3 Gb/s), Wi-Fi 6 (2.4 Gb/s), Wi-Fi 6E / 7 (4.8 Gb/s o más)
+- Velocidad: Wi-Fi 5 (1.3 Gb/s), Wi-Fi 6 (2.4 Gb/s), Wi-Fi 6E / 7 (4.8 Gb/s o más)<br>
 **Uso principal:** El uso principal de una ranura M.2 para Wi-Fi es para instalar un módulo de red inalámbrica, como una
 tarjeta Wi-Fi/Bluetooth, que aprovecha esta interfaz de factor de forma compacto para conectarse directamente a la placa base del ordenador.
 **Compatibilidad actual:** Alta
