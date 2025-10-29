@@ -24,7 +24,7 @@ Gracias a esto, se ha convertido en la versión más común de entradas en la ma
 - Hz: 480 MHz
 
 ## Fotos
-![USB-A 2.0](../../../assets/img/20-conectores_externos/usba.jpg "USB-A 2.0")
+![USB-A 2.0](../../../assets/img/20-conectores_externos/usba.png "USB-A 2.0")
 
 ## Fuentes
 https://es.wikipedia.org/wiki/Universal_Serial_Bus
