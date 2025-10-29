@@ -23,6 +23,6 @@ especialmente cuando se trata de páginas o contenido estático en una parte de 
 ![DisplayPort 1.4](../../../assets/img/20-conectores_externos/disp.jpg "DisplayPort 1.4")
 
 ## Fuentes
-https://ibericavip.com/blog/pc-workstation/displayport-1-4a-vs-2-0-2-1-en-la-tarjeta-grafica-por-que-es-importante/
-https://compukaed.com/tienda/cables/video/displayport/cable-displayport-dp-1-4-de-1-80-metros-ultra-hd-8k-a-60hz-4k-a-144hz-forrado-en-nylon-netcom/
+https://ibericavip.com/blog/pc-workstation/displayport-1-4a-vs-2-0-2-1-en-la-tarjeta-grafica-por-que-es-importante/<br>
+https://compukaed.com/tienda/cables/video/displayport/cable-displayport-dp-1-4-de-1-80-metros-ultra-hd-8k-a-60hz-4k-a-144hz-forrado-en-nylon-netcom/<br>
 https://fycables.com/es/what-is-displayport-1-4/
