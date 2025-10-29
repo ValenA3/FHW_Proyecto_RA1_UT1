@@ -15,16 +15,18 @@
 
 <a id="portada"></a>
 ## Portada
-(Resumen e imagen)
+![Portada](../assets/img/00-portada/portadaa.jpg "Portada")
+Los conectores, ranuras y puertos de una placa base constituyen el sistema de interconexión que permite el funcionamiento coordinado del hardware. A través de ellos se distribuye energía, se transfieren datos y se amplían las capacidades del equipo mediante componentes y periféricos adicionales. Su diseño estandarizado asegura la compatibilidad entre generaciones y la correcta comunicación entre los distintos dispositivos, tanto internos como externos.
+
+En conjunto, estas interfaces combinan líneas de energía, carriles de datos y buses de alta velocidad que evolucionan con cada generación para ofrecer mayor eficiencia, menor consumo y más ancho de banda. Su identificación física mediante formas, llaves, colores y símbolos facilita el montaje y evita errores de conexión. La tendencia actual se orienta hacia la integración de múltiples funciones en menos tipos de conectores, priorizando la velocidad, la versatilidad y la compatibilidad universal.
 
 <a id="1-introduccion"></a>
 ## 1. Introducción
-(Pega aquí tu introducción final)
+Este proyecto recopila y organiza información técnica sobre los distintos conectores, ranuras y puertos presentes en las placas base actuales. Su objetivo es ofrecer una referencia clara y estructurada que facilite la identificación, comprensión y comparación de las principales interfaces utilizadas en la conexión de componentes, dispositivos de almacenamiento, expansión y periféricos.
 
 <a id="2-conectores-internos-energia"></a>
 ## 2. Conectores internos (energía)
-(Pega aquí las **fichas** finales de esta sección; incluir una tabla resumen)
-
+[Fichas cocectores internos](/docs/10-conoctores_internos/fichas)
 <a id="3-conectores-de-datos"></a>
 ## 3. Conectores de datos
 (Pega aquí las fichas finales de esta sección)
