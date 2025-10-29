@@ -41,5 +41,4 @@ Este proyecto recopila y organiza información técnica sobre los distintos cone
 
 <a id="6-bibliografia"></a>
 ## 6. Bibliografía
-(Pega aquí la bibliografía consolidada)
-
+[Bibliografía](retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/docs/30-bibliografia.md)
