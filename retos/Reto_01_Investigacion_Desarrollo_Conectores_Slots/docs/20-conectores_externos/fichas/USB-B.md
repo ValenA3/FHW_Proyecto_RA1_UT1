@@ -6,8 +6,8 @@
 - Voltaje: 5V
 - Carriles: No utiliza carriles de datos en el mismo sentido que el USB-C
 - Velocidades: Dependen del estándar USB como 480 Mbps para USB 2.0 y hasta 10 Gbps para USB 3.2 Gen 2,
-que usa conectores Micro-USB 3.0 de 10 pines
-**Uso principal:** Se utiliza principalmente en dispositivos que tradicionalmente han contado con este puerto, como routers, impresoras y fotocopiadoras.
+que usa conectores Micro-USB 3.0 de 10 pines<br>
+**Uso principal:** Se utiliza principalmente en dispositivos que tradicionalmente han contado con este puerto, como routers, impresoras y fotocopiadoras.<br>
 **Compatibilidad actual:** Media
 
 ## Identificación física
