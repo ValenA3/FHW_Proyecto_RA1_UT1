@@ -26,7 +26,7 @@ Este proyecto recopila y organiza información técnica sobre los distintos cone
 
 <a id="2-conectores-internos-energia"></a>
 ## 2. Conectores internos (energía)
-[Fichas cocectores internos](/docs/10-conoctores_internos/fichas)
+[Fichas cocectores internos](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/docs/10-conectores_internos/fichas)
 <a id="3-conectores-de-datos"></a>
 ## 3. Conectores de datos
 (Pega aquí las fichas finales de esta sección)
