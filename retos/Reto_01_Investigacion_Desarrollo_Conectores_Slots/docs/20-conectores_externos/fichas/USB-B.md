@@ -25,7 +25,7 @@ que usa conectores Micro-USB 3.0 de 10 pines
 ![USB-B](../../../assets/img/20-conectores_externos/usbb.jpg "USB-B")
 
 ## Fuentes
-https://www.pcbasic.com/es/blog/usb_pinout.html
-https://hilelectronic.com/es/usb-pinout/
+https://www.pcbasic.com/es/blog/usb_pinout.html<br>
+https://hilelectronic.com/es/usb-pinout/<br>
 https://opencircuit.es/blog/usb-a-b-c-mini-micro-welke-usb-kabel-heb-je
 
