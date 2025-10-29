@@ -26,18 +26,18 @@ Este proyecto recopila y organiza información técnica sobre los distintos cone
 
 <a id="2-conectores-internos-energia"></a>
 ## 2. Conectores internos (energía)
-[Fichas cocectores internos](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/docs/10-conectores_internos/fichas)
+[Fichas de conectores internos](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/docs/10-conectores_internos/fichas)
 <a id="3-conectores-de-datos"></a>
 ## 3. Conectores de datos
-(Pega aquí las fichas finales de esta sección)
+[Fichas de conectores de datos](retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/docs/11-conectores_datos/fichas)
 
 <a id="4-slots-de-expansion"></a>
 ## 4. Slots de expansión
-(Pega aquí las fichas finales de esta sección)
+[Fichas de slots de expansion](retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/docs/12-slots_expansion/fichas)
 
 <a id="5-conectores-externos"></a>
 ## 5. Conectores externos
-(Pega aquí las fichas finales de esta sección)
+[Fichas de conectores externos](retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/docs/20-conectores_externos/fichas)
 
 <a id="6-bibliografia"></a>
 ## 6. Bibliografía
