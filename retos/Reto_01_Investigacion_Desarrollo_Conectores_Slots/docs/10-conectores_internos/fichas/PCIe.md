@@ -1,5 +1,5 @@
-# <Tipo y nombre>
-Cable PCIe 6/8p <br>
+# Cable PCIe 6/8p
+
 **Descripción breve:** Cable adaptador de alimentación para tarjetas gráficas.<br>
 **Pines/Carriles/Voltajes/Velocidad:** 6/8 pines, 16 carriles, 75W(6p)/150W(8p), no velocidad(no transmiten datos)<br>
 **Uso principal:** Alimentar tarjetas gráficas (GPU) de gama media y alta que requieren más energía de la que puede suministrar la placa base<br>
