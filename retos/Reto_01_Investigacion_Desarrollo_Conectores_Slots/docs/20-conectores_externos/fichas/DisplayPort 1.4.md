@@ -1,10 +1,10 @@
 # Conector DisplayPort 1.4
 
 **Descripción breve:** permite reproducir vídeos de hasta 7680 x 4320 (8K) a 60Hz con un ancho de banda de 32,4 Gb/s,
-y soporta la mayoría de los formatos de vídeo en 3D 
-**Pines/Carriles/Voltajes/Velocidad:** 20 pines, 4 carriles, no voltajes, ancho de banda: 32,4 Gbps (total), velocidad de datos: 25,92 Gbps
+y soporta la mayoría de los formatos de vídeo en 3D <br>
+**Pines/Carriles/Voltajes/Velocidad:** 20 pines, 4 carriles, no voltajes, ancho de banda: 32,4 Gbps (total), velocidad de datos: 25,92 Gbps<br>
 **Uso principal:** Permite actualizaciones de pantalla «parciales» desde la GPU,
-especialmente cuando se trata de páginas o contenido estático en una parte de la pantalla con la que no está interactuando.  
+especialmente cuando se trata de páginas o contenido estático en una parte de la pantalla con la que no está interactuando.<br>  
 **Compatibilidad actual:** Alta
 ## Identificación física
 - Forma: rectangular
